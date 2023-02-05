@@ -10,7 +10,7 @@ We make multiple calls via a single API call to our infura node.
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/multicall
+git clone https://github.com/Litvamhan/Multicall-assignment.git
 cd multicall
 ```
 
